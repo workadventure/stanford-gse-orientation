@@ -3043,7 +3043,7 @@
          "name":"Building",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }],
@@ -3059,7 +3059,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"Capgemini main office map"
+         "value":"A map for the Stanford University"
         }, 
         {
          "name":"mapImage",
@@ -3067,14 +3067,9 @@
          "value":"map.png"
         }, 
         {
-         "name":"mapLink",
-         "type":"string",
-         "value":"https:\/\/thecodingmachine.github.io\/workadventure-map-starter-kit\/map.json"
-        }, 
-        {
          "name":"mapName",
          "type":"string",
-         "value":"Capgemini Office"
+         "value":"2024 GSE Pre-Orientation"
         }, 
         {
          "name":"script",
